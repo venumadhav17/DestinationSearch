@@ -1,0 +1,20 @@
+/* Write your CSS here */
+
+.card-container {
+  list-style-type: none;
+  width: auto;
+  font-family: Open Sans;
+  padding: 5px;
+}
+
+.image-card {
+  height: 70px;
+  width: 110px;
+}
+
+.paragraph {
+  color: #000000;
+  font-size: 9px;
+  font-family: Open Sans;
+  font-weight: bolder;
+}
